@@ -1,3 +1,5 @@
+# Gradient Descent Algorithms : Compariason Through an Example
+
 Most the time when I train Neural Networks on tensorflow I set the optimizer by default to Adam optimizer. I have already look into formula but I have never implemented any of them. Here is some simple code. This repository contains code for gradient descents algorithms : 
 
 ## Basic mini-batch gradient descent :
