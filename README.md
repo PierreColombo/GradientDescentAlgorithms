@@ -28,3 +28,7 @@ Adam tries to combine the best of both world of momentum and adaptive learning r
 
 ## Conclusions :
 Suprisingly ADAM is not always the best choices.... 
+
+
+## Source :
+This code is given by http://ruder.io/optimizing-gradient-descent/
